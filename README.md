@@ -1,2 +1,2 @@
-# dio_c_cpp
-Desafios do Curso de Ruby da DIO
+# dio_c_cpp_desafios
+Desafios do Curso de C/C++ da DIO
